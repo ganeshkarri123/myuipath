@@ -1,1 +1,1 @@
-Your testing is successful
+Your test is successful
